@@ -1,13 +1,3 @@
-# BIG-DATA-ANALYSIS
-
-*COMPANY:* CODTECH IT SOLUTIONS
-*NAME:* Piyush Singh
-*INTERN ID:* CT08TUM
-*DOMAIN:*  Data Analytics
-*DURATION:* 4 WEEKS
-*MENTOR:* NEELA SANTHOSH KUMAR 
-
-
 # Big Data Analysis Using PySpark
 
 ## Instructions
