@@ -1,5 +1,18 @@
 # Big Data Analysis Using PySpark
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: PIYUSH SINGH
+
+*INTERN ID*: CT08TUM
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 ## Instructions
 Perform analysis on a large dataset using tools like PySpark or Dask to demonstrate scalability.
 
