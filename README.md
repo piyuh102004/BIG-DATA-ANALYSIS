@@ -13,6 +13,14 @@
 *MENTOR*:  NEELA SANTOSH
 
 
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/f680f878-424c-4723-86b9-95a0d93f53f6)
+![Image](https://github.com/user-attachments/assets/cd7154c5-2d26-4b3a-ab80-77f80e8db80a)
+![Image](https://github.com/user-attachments/assets/52d79fda-6ba8-459a-ba43-18cdbd8cf6ab)
+![Image](https://github.com/user-attachments/assets/f4f5cfe0-618d-4cb4-a549-e36e4c2f44a6)
+![Image](https://github.com/user-attachments/assets/2778b168-c2df-4479-92d9-34d40cde6804)
+
+
 ## Instructions
 Perform analysis on a large dataset using tools like PySpark or Dask to demonstrate scalability.
 
